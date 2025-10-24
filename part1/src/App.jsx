@@ -13,7 +13,7 @@ const App =() => {
         <Mensaje color= 'red' message = 'Estamos trabajando '/>
         <Mensaje  color='blue' message= 'en un ' />
         <Mensaje color = 'blackgray'message ='curso de react'/>
-        <Descrip descripcion='nooo sacaron a los brodels'/>
+        <Descrip descripcion='ya guardamos en git papa'/>
 
         
         
